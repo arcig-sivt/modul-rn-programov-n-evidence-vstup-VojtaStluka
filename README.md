@@ -20,4 +20,5 @@ Každou kartu lze přiřadit konkrétní osobě. Promyslete jaké to má implika
 
 ### 4. Složitější use-case
 
-Vymyslete si co chcete pokytnout za zajímavý dotaz.
+Vymyslete si co chcete poskytnout za zajímavý dotaz
+- budu se ptát, kdo je uvnitř
